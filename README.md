@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Aaron Guzmán 👋
 
-<!--
-**Aaron-BioDev/Aaron-BioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Estudiante de Ciencias Biomédicas | 💻 Full Stack Developer | 🛠️ Tech Specialist
 
-Here are some ideas to get you started:
+Me apasiona la intersección entre la tecnología y las ciencias de la vida. Actualmente desarrollo soluciones web y sistemas de automatización, mientras me formo en el área biomédica en la **UdeG (CUCBA)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+- 🏫 Estudiante en el Centro Universitario de Ciencias Biológicas y Agropecuarias.
+- 👨‍💻 Desarrollador del sistema de asistencia QR para **Formación Integral CUCBA**.
+- 🛠️ Especialista en mantenimiento de hardware y sistemas electrónicos.
+- 📈 Interesado en Bioinformática y aplicaciones web progresivas (PWA).
+
+### 🛠️ Tecnologías y Herramientas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📬 Contacto
+- 🌐 **Empresa:** Ageron Systems
+- 📍 **Ubicación:** Guadalajara, Jalisco, México
